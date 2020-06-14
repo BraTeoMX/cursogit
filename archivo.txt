@@ -1,0 +1,3 @@
+desde aqui puedo escrbir todo el contenido del archivo original
+en un principio parecera que no, pero despues lo visualizaremos con bloc de notas 
+o en su defecto con visual studio.
