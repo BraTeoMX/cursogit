@@ -4,3 +4,6 @@ o en su defecto con visual studio.
 
 para entender este cambio notaremos que realice un reset hard y se 
 perdio todo el proyecto, ademas es importante resaltar esto.
+
+ok, despues de este nuevo proceso es rapido generar este el tercer
+rest para poder trabajar a la marcha del curso.
